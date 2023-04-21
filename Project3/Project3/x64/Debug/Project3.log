@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Michał\source\repos\Project3\Project3\main.cpp(13): error C2109: indeks dolny wymaga tablicy lub wskaźnika typu
+C:\Users\Michał\source\repos\Project3\Project3\main.cpp(67,2): error C3861: "fujnkcja": identyfikatora nie odnaleziono
+C:\Users\Michał\source\repos\Project3\Project3\main.cpp(95,5): error C2084: funkcja "int szukaj(struktura *,const int,struktura)" ma już treść
+C:\Users\Michał\source\repos\Project3\Project3\main.cpp(82,5): message : zobacz poprzednią definicję „szukaj”
+C:\Users\Michał\source\repos\Project3\Project3\main.cpp(126,13): error C2065: "szukaj": niezadeklarowany identyfikator
+C:\Users\Michał\source\repos\Project3\Project3\main.cpp(148,13): error C2065: "szukaj": niezadeklarowany identyfikator
+C:\Users\Michał\source\repos\Project3\Project3\main.cpp(172,13): error C2065: "szukaj": niezadeklarowany identyfikator
+C:\Users\Michał\source\repos\Project3\Project3\main.cpp(224,5): error C2084: funkcja "int main(void)" ma już treść
+C:\Users\Michał\source\repos\Project3\Project3\main.cpp(49,5): message : zobacz poprzednią definicję „main”
